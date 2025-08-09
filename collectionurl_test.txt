@@ -1,1 +1,1 @@
-{"id":"https://test-collection-id.apolloloan.net/#/login"}
+{"id":"https://test-collection-id.apolloloan.net/#/login","mx":"https://test-collection-mx.apolloloan.net/#/login"}
